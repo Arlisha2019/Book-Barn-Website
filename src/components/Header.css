@@ -1,0 +1,19 @@
+.menu {
+  background-color: #e84393;
+  color: white;
+  list-style: none;
+  display: flex;
+  height: 35px;
+
+}
+.menu li {
+  width: 100%;
+  text-align: center;
+}
+
+.headTitle {
+  text-align: center;
+  background-color: grey;
+  color: white;
+
+}

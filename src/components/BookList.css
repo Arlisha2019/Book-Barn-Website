@@ -1,0 +1,39 @@
+.bookItems {
+  list-style: none;
+  font-size: 20px;
+  display: inline-block;
+  width: 400px;
+
+}
+
+.bookItems li {
+  overflow-wrap : break-word;
+  word-wrap: break-word;
+}
+
+.image {
+  width: 400px;
+  height: 400px;
+  border-radius: 15%;
+}
+.title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  overflow-wrap : break-word;
+  word-wrap: break-word;
+
+}
+.author {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.year {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bookLink {
+  margin-top: 0px;
+
+}
